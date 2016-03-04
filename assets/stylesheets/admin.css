@@ -1,0 +1,107 @@
+*{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+#admin-navbar{
+	color: #d9534f;
+	font-weight: bold;
+}
+
+#orders_id_table{
+	vertical-align: top;
+	width: 500px;
+	margin: 0 5px 5px 190px;
+	display: inline-block;
+}
+
+#order-description{
+	vertical-align: top;
+	border: 2px solid black;
+	background-color: white;
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	width: 300px;
+}
+
+#shipped_status #status, #totals{
+	display: inline-block;
+}
+
+#status{
+	vertical-align: top;
+	background-color: green;
+	margin: 10px 10px 10px 0px;
+	padding: 10px;
+}
+
+#totals{
+	vertical-align: top;
+	background-color: white;
+	margin: 10px 10px 10px 40px;
+	padding: 10px;
+}
+
+#search{
+	display: inline-block;
+}
+
+.product-title #searchbar #searchbar-users #searchbar-orders #searchbar-products .search-center #topofthehead.addNewproduct{
+	display: inline-block;
+}
+
+	.product-title{
+		margin: 0 10px 10px 0;
+		padding: 0 10px 10px 0;
+		display: inline-block;
+		color: #C14242;
+	}
+
+	#searchbar{
+		display: inline-block;
+		margin: 0 10px 10px 50px;
+		padding: 0 10px 10px 0;
+		vertical-align: top;
+	}
+
+	#searchbar-users{
+		display: inline-block;
+		margin: 0 10px 10px 50px;
+		padding: 0 10px 10px 0;
+		vertical-align: top;
+	}
+
+	#searchbar-orders{
+		display: inline-block;
+		margin: 0 10px 10px 50px;
+		padding: 0 10px 10px 0;
+		vertical-align: top;
+	}
+	#searchbar-products{
+		display: inline-block;
+		margin: 0 10px 10px 50px;
+		padding: 0 10px 10px 0;
+		vertical-align: top;
+	}
+
+	.search-center{
+		display: inline-block;
+		margin: 0 auto;
+		padding: 5px;
+	}
+
+	#topofthehead{
+		display: inline-block;
+		float: right !important;
+	}
+
+.product-title, #searchbar, #searchbar-products, #searchbar-users, #searchbar-orders, .search-center{
+	display: inline-block;
+}
+
+
+.nav-action li{
+	display: inline-block;
+	margin: 3px;
+}
