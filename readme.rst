@@ -2,19 +2,7 @@
 KMK T-Shirts
 ###################
 
-This is a e-Commerce project involving PHP, Codeigniter, and AJAX
-
-*******************
-Release Information
-*******************
-
-TBA
-
-**************************
-Changelog and New Features
-**************************
-
-TBA
+This is an eCommerce web app made with PHP, CodeIgniter, AJAX, MySQL database, and Stripe API payment system. In addition, shopping cart and search functionality were implemented for both admin and uers.
 
 *******************
 Server Requirements
@@ -26,32 +14,20 @@ It should work on 5.2.4 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
 
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
 *******
 Codeigniter License
 *******
-Code
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+<https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
-*********
-Resources
-*********
+*******
+Authors
+*******
 
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
+David Macias - github.com/dmacstack
 
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+Molly Knute - github.com/MCKnute
+
+Pete Kang - github.com/kangpeter5
 
 ***************
 Acknowledgement
